@@ -103,6 +103,7 @@ The raw data needs to be manually downloaded, upon accepting the data disclaimer
 More precisely, the following two .zip files should be extracted after downloads, with all the extracted folders under the directory of $ROOTSIGVER/$RAW/, where $RAW is the folder under $ROOTSIGVER/ to store images from the raw data:
 - http://www.iapr-tc11.org/dataset/ICDAR_SignatureVerification/SigComp2011/sigComp2011-trainingSet.zip
 - http://www.iapr-tc11.org/dataset/ICDAR_SignatureVerification/SigComp2011/sigComp2011-test.zip
+
 Consequently, the folder structure to be used for the next step should look like: $ROOTSIGVER/$RAW/Offline Genuine Chinese/, $ROOTSIGVER/$RAW/Offline Genuine Dutch/, etc.
 
 ### Constructing datasets in MI verification format from the raw data
@@ -148,6 +149,7 @@ The raw data needs to be manually downloaded from:
 - https://fever.ai/download/fever/paper_dev.jsonl
 - https://fever.ai/download/fever/paper_test.jsonl
 - https://fever.ai/download/fever/wiki-pages.zip
+
 After downloads and extraction, put the resultant files/folders under the directory of $ROOTFEVER/$RAW/, where $RAW is the folder under $ROOTFEVER/ to store the raw data.
 
 ### Constructing datasets in MI verification format from the raw data
