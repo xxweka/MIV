@@ -5,7 +5,9 @@ We provide the code, and instructions of executing the code, needed to reproduce
 
 This implementation of "Cross Attention Pooling" (CAP) is based on Tensorflow. A PyTorch implementation can be found here (coming soon)
 
-## Instructions common to all the three tasks
+## Instructions common to all the three tasks 
+
+Go to the "code/" subfolder
 
 ### Requirements
 
