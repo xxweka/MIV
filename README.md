@@ -1,5 +1,5 @@
 # Multiple Instance Verification
-Official code repository for the paper "Multiple Instance Verification" (http://www.arxiv.org/abs/2407.06544)
+Official code repository for the paper "Multiple Instance Verification" (http://www.arxiv.org/abs/2407.06544, MIV)
 
 We provide the code, and instructions of executing the code, needed to reproduce the main experimental results in our paper
 
