@@ -3,7 +3,7 @@ Official code repository for the paper "Multiple Instance Verification" (http://
 
 We provide the code, and instructions of executing the code, needed to reproduce the main experimental results in our paper
 
-This implementation of "Cross Attention Pooling" (CAP) is based on Tensorflow. A PyTorch implementation can be found here (coming soon)
+This implementation of "Cross Attention Pooling" (CAP) is based on Tensorflow. A PyTorch implementation can be found [here](https://github.com/xxweka/MIV-head).
 
 ## Instructions common to all the three tasks 
 
@@ -186,3 +186,8 @@ python eval_fever.py --root_folder=$ROOTFEVER/ --test=test_fever_all.npy --model
 
 The results of evaluation metrics are printed to stdout. It should suffice to reproduce the experimental results of Section 6.3 by running the above training/evaluation steps for all the models across 3 rounds of experiments, and collecting/summarizing results.
 
+
+## Citation
+If you find this repository useful, please cite [our paper](http://www.arxiv.org/abs/2407.06544).
+
+TODO: bibtex
