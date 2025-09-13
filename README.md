@@ -188,7 +188,7 @@ The results of evaluation metrics are printed to stdout. It should suffice to re
 
 
 ## Citation
-If you find this repository useful, please cite [our paper](https://jmlr.org/papers/volume26/23-1590/23-1590.pdf).
+If you find this repository useful, please cite [our paper](https://jmlr.org/papers/volume26/23-1590/23-1590.pdf):
 ```
 @article{miv2025JMLR23-1590,
   author  = {Xin Xu and Eibe Frank and Geoffrey Holmes},
