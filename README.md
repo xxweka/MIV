@@ -1,5 +1,5 @@
-# Multiple Instance Verification
-Official code repository for the paper "Multiple Instance Verification" (http://www.arxiv.org/abs/2407.06544)
+# Multiple Instance Verification (Journal of Machine Learning Research 2025)
+Official code repository for the paper ["Multiple Instance Verification"](https://jmlr.org/papers/v26/23-1590.html)
 
 We provide the code, and instructions of executing the code, needed to reproduce the main experimental results in our paper
 
@@ -188,6 +188,15 @@ The results of evaluation metrics are printed to stdout. It should suffice to re
 
 
 ## Citation
-If you find this repository useful, please cite [our paper](http://www.arxiv.org/abs/2407.06544).
+If you find this repository useful, please cite [our paper](https://jmlr.org/papers/volume26/23-1590/23-1590.pdf).
 
-TODO: bibtex
+@article{miv2025JMLR23-1590,
+  author  = {Xin Xu and Eibe Frank and Geoffrey Holmes},
+  title   = {Multiple Instance Verification},
+  journal = {Journal of Machine Learning Research},
+  year    = {2025},
+  volume  = {26},
+  number  = {188},
+  pages   = {1--46},
+  url     = {https://jmlr.org/papers/v26/23-1590.html}
+}
