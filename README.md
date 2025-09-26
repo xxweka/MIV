@@ -3,7 +3,7 @@ Official code repository for our JMLR paper ["Multiple Instance Verification"](h
 
 We provide the code, and instructions of executing the code, needed to reproduce the main experimental results in our paper
 
-This implementation of "Cross Attention Pooling" (CAP) is based on Tensorflow. A PyTorch implementation can be found [here](https://github.com/xxweka/MIV-head).
+This implementation of "Cross Attention Pooling" (CAP) is based on Tensorflow. A PyTorch implementation can be found in [the repository of "MIV-head"](https://github.com/xxweka/MIV-head) (more precisely, https://github.com/xxweka/MIV-head/blob/main/fsc_modeling.py#L308).
 
 ## Instructions common to all the three tasks 
 
